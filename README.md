@@ -1,1 +1,3 @@
-# perl-Color
+# perl-Color module
+
+Sets up ANSI color variables, example to follow...
